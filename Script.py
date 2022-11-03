@@ -77,7 +77,7 @@ Note:- Give a user details
 <b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙷𝙴 𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙 @TmElsaRobot 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/technokillerbot>𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝</a></b>
 
 <b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/tmmainchannel><b>𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Tamilthalaiva3><b>Tamil Thalaiva</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
     
 - Filter is the feature were users can set automated replies for a particular keyword and 𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙  will respond whenever a keyword is found the message
