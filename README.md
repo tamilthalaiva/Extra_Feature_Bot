@@ -1,15 +1,15 @@
 
-# <i><b>💖TECHNO MINDZ EXtra Feature Bot💝</i></b>
+# <i><b>💖𝗦𝗕 EXtra Feature Bot💝</i></b>
 
 ## Start Message With Video
 ## Ultimate EXtra Feature Bot With Autodelte Feature And Many More..
 ## Usage of Credits Must Be There While Forking
 
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/Tamilthalaiva3"><img src="https://telegra.ph/file/b232edd7413b5682947a8.jpg" width="500"></a></p>
 
 # Introduction
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+RAVINANDAN!;A+Powerfull+Bot+with+many+Features!;A+Advanced+AutoFilter+Bot;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+𝗧𝗮𝗺𝗶𝗹+𝗧𝗵𝗮𝗹𝗮𝗶𝘃𝗮!;Created+by+🆂🆄🆁🅹🅸🆃🅷!;A+Powerfull+Bot+with+many+Features!;A+Advanced+AutoFilter+Bot;Don't+Forget+To+Subcribe;𝗧𝗮𝗺𝗶𝗹+𝗧𝗵𝗮𝗹𝗮𝗶𝘃𝗮+in+Telegram;)
 </p>
 </h1>
 
@@ -29,7 +29,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/Extra_Feature_Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/tamilthalaiva/Extra_Feature_Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -97,15 +97,15 @@ MADE BY @TmMainChannel
   
 ## CREATED BY
  
-* [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://t.me/TechnoMINDZYT)
+* [꧁𓊈𒆜🆂🆄🆁🅹🅸🆃🅷𒆜𓊉꧂](https://t.me/Tamil_Thalaiva)
 ## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Modal Bot
 
-[<b><i>@TmElsarobot</i></b>](https://t.me/tmelsarobot)
+[<b><i>@Tamil_Thalaiva</i></b>](https://t.me/Tamil_Thalaiva)
 
 ## Thanks to 
 
  - [EvaMaria](https://github.com/EvamariaTG/EvaMaria) Where We Used This As a Base Source Code for this Project
- - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/Extra_Feature_Bot)
+ - Thanks To [꧁𓊈𒆜🆂🆄🆁🅹🅸🆃🅷𒆜𓊉꧂](https://github.com/tamilthalaiva) for Their Awesome [AutoFilterBoT](https://github.com/tamilthalaiva/Extra_Feature_Bot)
  - Thanks To All Of My Subscribers😊
