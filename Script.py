@@ -274,7 +274,7 @@ This module only works for my admins
 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚎𝚍𝚒𝚝 𝚒𝚖𝚊𝚐𝚎 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚒𝚕𝚢 
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/tmmainchannel>𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Tamilthalaiva3>𝗧𝗮𝗺𝗶𝗹 𝗧𝗵𝗮𝗹𝗮𝗶𝘃𝗮</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
